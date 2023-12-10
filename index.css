@@ -2,7 +2,7 @@
     width:100%;
     margin: 10px;
     text-align: center;
-    border-radius: 12px;
+    border-radius:10px;
     font-style: oblique;
     position: relative;
     max-width:300px;
@@ -37,7 +37,7 @@
   .back{
     background-color:lightgreen;
     border-radius: 20px;
-    height:450px;
+    height:500px;
   }
   button:hover {
     background-color: #46924a;
@@ -47,7 +47,7 @@
 
 }
 #dot{
-    margin-bottom:10px;
+    margin-bottom:20px;
 }
 .cello{
   font-size: larger;
@@ -55,7 +55,7 @@
   border-radius:10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: italic;
-  margin-top: 50px;
+  margin-top:10px;
 }
 body{
   display: flex;
